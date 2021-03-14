@@ -1,0 +1,35 @@
+test1:
+
+0.016 - bubble
+0.020 - countSort
+0.016 - radix
+0.017 - mergeSort
+0.015 - quick Sort
+
+vs
+
+0.016
+
+test2:
+
+0.016 - bubble
+0.021 - countSort
+0.016 - radix
+0.018 - mergeSort
+0.017 - quick Sort
+
+vs
+
+0.015
+
+test3:
+
+0.025 - bubble
+0.023 - countSort
+0.024 - radix
+0.022 - mergeSort
+0.021 - quick Sort
+
+vs
+
+0.020
